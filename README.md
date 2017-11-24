@@ -1,0 +1,2 @@
+# MyPermission
+Demo for easypermissions
